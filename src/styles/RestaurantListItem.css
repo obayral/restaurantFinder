@@ -1,0 +1,28 @@
+.media{
+    margin-top: 0;
+    border-left: 1px solid lightgrey;
+    border-right: 1px solid lightgrey; 
+    background-color: #f5f5f5;
+}
+
+.media-body{
+    width: 10000px;
+}
+
+.media, .media-body{
+    overflow: hidden;
+    zoom:1;
+}
+
+.media-left, .media-body{
+    display: table-cell;
+    vertical-align: top;
+}
+
+a {
+    text-decoration: none;
+}
+
+.res_name{
+    margin-left: 0.5em;
+}

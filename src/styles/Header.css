@@ -1,0 +1,21 @@
+.App-name{
+    background-color:rgb(188, 206, 108);
+    padding: 1em;
+    text-align: center;
+    font-size: 1.6em;
+    color: rgb(205, 226, 112);
+    border-bottom: 1px solid darkgrey;
+    font-family: 'Gill Sans';
+    display : flex;
+    justify-content: center;
+}
+
+.black{
+    color: black;
+}
+
+.App-title__link{
+    text-decoration: none;
+    color: rgb(60, 46, 190);
+    
+}
